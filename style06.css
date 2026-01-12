@@ -1,0 +1,30 @@
+*{
+    background-color: aqua;
+}
+
+.js{
+ color:orange;
+ text-decoration: underline;
+ font-weight:800 ;
+}
+.box{
+    height:200px;
+    width:200px;
+    background-color: brown;
+    display: block;
+    row-gap: 10px;
+    border: 2px solid black;
+}
+.hero{
+    color: blue;
+    background-color: green;
+    font-size: 2rem;
+    font-weight: 800;
+    font-style: italic;
+}
+.noob{
+    color: red;
+    background-color: yellow;
+    font-size: 2rem;
+    font-weight: 800;
+}
