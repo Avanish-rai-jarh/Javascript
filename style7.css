@@ -1,3 +1,12 @@
+h3{
+    text-align:center;
+    color:Blue;
+}
+p{
+    text-align:center;
+    color:yellow;
+}
+
 .dark_mode{
     color: white;
     background-color: black;
@@ -7,11 +16,4 @@
     color: black;
     background-color: white;
 }
-p{
-    text-align:ceter;
-    color:yellow;
-}
-h3{
-    text-align:center;
-    color:pink;
-}
+
