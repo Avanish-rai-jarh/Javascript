@@ -6,9 +6,6 @@ p{
     text-align:center;
     color:brown;
 }
-.mode{
-    color:green;
-}
 .dark_mode{
     color: white;
     background-color:black;
@@ -18,4 +15,11 @@ p{
     color: black;
     background-color: white;
 }
-
+button{
+    border-radius:10%;
+    height:0.8rem;
+    width:1rem;
+    color:pink;
+    background-color:green;
+}
+    
