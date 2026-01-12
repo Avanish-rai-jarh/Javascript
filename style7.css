@@ -7,11 +7,6 @@ p{
     color:brown;
 }
 
-button{
-    color:green;
-    background-color:yellow;
-}
-
 .dark_mode{
     color: white;
     background-color:black;
@@ -20,5 +15,10 @@ button{
 .light_mode{
     color: black;
     background-color: white;
+}
+
+button{
+    color:green;
+    background-color:yellow;
 }
 
