@@ -7,6 +7,11 @@ p{
     color:brown;
 }
 
+button{
+    color:green;
+    background-color:yellow;
+}
+
 .dark_mode{
     color: white;
     background-color:black;
