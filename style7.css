@@ -6,7 +6,9 @@ p{
     text-align:center;
     color:brown;
 }
-
+.mode{
+    color:green;
+}
 .dark_mode{
     color: white;
     background-color:black;
@@ -15,10 +17,5 @@ p{
 .light_mode{
     color: black;
     background-color: white;
-}
-
-button{
-    color:green;
-    background-color:yellow;
 }
 
