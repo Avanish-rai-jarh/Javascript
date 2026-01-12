@@ -6,15 +6,10 @@ p{
     text-align:center;
     color:brown;
 }
-.mode{
-    color:red;
-    background-color:green;
-    
-}
 
 .dark_mode{
     color: white;
-    background-color: black;
+    background-color:black;
 }
 
 .light_mode{
