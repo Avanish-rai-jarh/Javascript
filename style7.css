@@ -4,7 +4,16 @@ h3{
 }
 p{
     text-align:center;
-    color:yellow;
+    color:brown;
+}
+body{
+    display:flex;
+    justify-content:center;
+}
+
+.mode{
+    color:red;
+    background-color:green;
 }
 
 .dark_mode{
